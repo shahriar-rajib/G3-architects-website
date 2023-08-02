@@ -14,6 +14,13 @@
     border: 0;
 }
 
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+    color:black
+}
+
+
 header{
     background: rgba(255, 144, 14, 0.10);
     padding: 50px 50px;
@@ -25,11 +32,6 @@ nav{
     align-items: center;
 }
 
-.nav-title{
-    font-size: 2.8rem;
-    font-weight: 700;
-    color:black
-}
 
 nav>ul{
     display:flex;
